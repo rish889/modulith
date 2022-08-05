@@ -11,8 +11,6 @@
 
     <artifactId>web</artifactId>
 
-<!--    <packaging>jar</packaging>-->
-
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
@@ -42,13 +40,13 @@
 
         <dependency>
             <groupId>com.rish889</groupId>
-            <artifactId>ModuleA</artifactId>
+            <artifactId>EmployeeServiceImpl</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
         <dependency>
             <groupId>com.rish889</groupId>
-            <artifactId>ModuleB</artifactId>
+            <artifactId>OrderServiceImpl</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 

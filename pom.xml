@@ -21,8 +21,10 @@
 
 	<modules>
 		<module>web</module>
-		<module>ModuleA</module>
-		<module>ModuleB</module>
+		<module>EmployeeService</module>
+		<module>EmployeeServiceImpl</module>
+		<module>OrderServiceImpl</module>
+		<module>OrderService</module>
 	</modules>
 
 </project>
